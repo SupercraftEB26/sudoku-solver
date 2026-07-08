@@ -28,11 +28,11 @@ https://www.python.org/downloads/
 
 2. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/sudoku-solver.git
+git clone https://github.com/SupercraftEB26/sudoku-solver.git
 ```
 clones to the current directory, if wanted to clone to a specific location:
 ```bash
-git clone https://github.com/yourusername/sudoku-solver.git PathToLocation
+git clone https://github.com/SupercraftEB26/sudoku-solver.git PathToLocation
 ```
 
 ### Formatting Sudokus
@@ -74,7 +74,7 @@ is inputted as:
 python main.py sudoku.txt
 ```
 *Note that sudoku.txt refers to the target sudoku to be solved,
-if not in the same directory full path to the file must be given
+if not in the same directory full path to the file must be given*
 
 ## Help
 
@@ -97,7 +97,7 @@ also ensure that the sudoku is formatted correctly
 
 ## Version History
 
-See [commit change]() or See [release history]()
+See [Commit History](https://github.com/SupercraftEB26/sudoku-solver/commits/main/) or see [Release History](https://github.com/SupercraftEB26/sudoku-solver/releases)
 
 * 0.1
     * Initial Release
