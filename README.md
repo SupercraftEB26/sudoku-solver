@@ -16,7 +16,7 @@ it solves most valid Sudoku puzzles efficiently by eliminating invalid moves ear
 
 ### Dependencies
 
-* Python 3.8 or later 
+* Python 3.8 or later
 * Any operating system that supports Python (Windows, macOS, or Linux)
 * No external libraries are required
 
@@ -71,7 +71,7 @@ is inputted as:
 * Navigate to the project folder
 * Run the program
 ```bash
-python main.py sudoku.txt
+python main.py demopuzzles/easy/001.txt
 ```
 *Note that sudoku.txt refers to the target sudoku to be solved,
 if not in the same directory full path to the file must be given*
@@ -80,7 +80,7 @@ if not in the same directory full path to the file must be given*
 
 * Attempt the command using python3 instead of python
 ```bash
-python3 main.py sudoku.txt
+python3 main.py demopuzzles/easy/001.txt
 ```
 
 * Verify that Python 3 is installed
